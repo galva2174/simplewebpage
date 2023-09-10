@@ -1,0 +1,26 @@
+.body {
+    background : linear-gradient(to right, orange, darkblue)
+    
+}
+
+
+.logo {
+    margin-left:37%;
+    width : 400px; 
+    height: 150px;
+   
+}
+
+.surveyForm
+{
+    text-align: center;
+}
+.head
+{
+    text-align: center;
+}
+.table
+{margin-left: 43%;
+
+}
+
